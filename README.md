@@ -1,4 +1,4 @@
-# CMPT276F25_Group22
+# Dungeon Escape
 
 To build and run the game use "mvn javafx:run" in the terminal.
 To test the game use "mvn -q test" in the terminal.
